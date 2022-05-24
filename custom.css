@@ -3,7 +3,7 @@
 
 * {
 	font-family: 'Roboto Mono', monospace;
-	font-size: 15px;
+	font-size: 18px;
 }
 
 
@@ -22,7 +22,7 @@ body{
 }
 
 #gmap_canvas {
-	height: 60vh;
+	height: 33vh;
 	width: 100%;
 }
 .fab {
