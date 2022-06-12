@@ -3,7 +3,7 @@
 
 * {
 	font-family: 'Roboto Mono', monospace;
-	font-size: 18px;
+	font-size: 20px;
 }
 
 body{
@@ -13,11 +13,11 @@ body{
 	background-repeat: no-repeat;
 }
 #ctrl{
-	font-size: 23px;
+	font-size: 21px;
 	font-weight: bold;
 }
 #ctrl1{
-	font-size: 45px;
+	font-size: 35px;
 	font-weight: bold;
 }
 #ctrl2{
@@ -32,7 +32,7 @@ body{
 	 background-color: #1E00C7 !important;
 }
 #gmap_canvas {
-	height: 33vh;
+	height: 42vh;
 	width: 100%;
 }
 .fab {
@@ -108,22 +108,3 @@ body{
 		right:0;opacity:1
 	}
 }
-#home {
-  background-color: hsl(250, 41%, 25%);
-  background-image: radial-gradient(
-  750px circle at 30% 50%,
-  hsl(218, 41%, 37%) 15%,
-  hsl(218, 41%, 35%) 30%,
-  hsl(218, 41%, 25%) 45%,
-  hsl(218, 41%, 20%) 50%,
-  transparent 100%
-),
-  radial-gradient(
-  650px circle at 100% 100%,
-  hsl(218, 41%, 37%) 15%,
-  hsl(218, 41%, 35%) 30%,
-  hsl(218, 41%, 25%) 65%,
-  hsl(218, 41%, 20%) 75%,
-  transparent 100%);
-}
-
