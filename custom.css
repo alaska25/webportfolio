@@ -57,7 +57,7 @@ body{
 
 .w3-animate-right {
 	position:relative;
-	animation:animateright 0.4s
+	animation:animateright 0.6s
 }
 @keyframes animateright { 
 	from { 
@@ -70,7 +70,7 @@ body{
 
 .w3-animate-right-1 {
 	position:relative;
-	animation:animateright 1.5s
+	animation:animateright 1.9s
 }
 @keyframes animateright { 
 	from { 
@@ -84,7 +84,7 @@ body{
 
 .w3-animate-right-2 {
 	position:relative;
-	animation:animateright 1.0s
+	animation:animateright 1.3s
 }
 @keyframes animateright { 
 	from { 
